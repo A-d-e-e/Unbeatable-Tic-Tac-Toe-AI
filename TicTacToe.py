@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 root.geometry("350x550")
-root.title("Tic Tac Toe AI")
+root.title("Tic Tac Toe (vs) AI")
 
 frame1 = Frame(root)
 frame1.pack()
