@@ -54,15 +54,13 @@ The core of this project is the **minimax algorithm**, a recursive function used
   ### Keeping track:
   | Terminal & Game Board |
   |-----------------------|
-  | <img src="https://github.com/user-attachments/assets/a3d0f3f8-b6f8-4c27-a474-d1fb64ca1065" alt="Game Board" width="300"> |
-  | ![image](https://github.com/user-attachments/assets/a3d0f3f8-b6f8-4c27-a474-d1fb64ca1065) |
+  | <img src="https://github.com/user-attachments/assets/a3d0f3f8-b6f8-4c27-a474-d1fb64ca1065" alt="Game Board" width="800"> |
 
 - **Minimax Implementation:** The algorithm explores every possible move (for both maximizing and minimizing players) and assigns scores to board states, ensuring that the AI always picks the best possible move.
   ### AI Wins:
   | Result |
   |--------|
-  
-  | ![image](https://github.com/user-attachments/assets/c9c6bb19-d969-41f9-b9d3-6bff996d4b7b) |
+  | <img src="h[ttps://github.com/user-attachments/assets/48a3d148-af1b-4458-b449-16fb5af429dd" alt="Game Board](https://github.com/user-attachments/assets/c9c6bb19-d969-41f9-b9d3-6bff996d4b7b)" width="300"> |
 
 
 ## Code Structure
