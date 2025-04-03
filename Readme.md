@@ -47,7 +47,7 @@ The core of this project is the **minimax algorithm**, a recursive function used
 ### Screenshot:
 | Game Board |
 |------------|
-| ![image](https://github.com/user-attachments/assets/48a3d148-af1b-4458-b449-16fb5af429dd) |
+| <img src="https://github.com/user-attachments/assets/48a3d148-af1b-4458-b449-16fb5af429dd" alt="Game Board" width="300"> |
 
 - **Turn Management:** The game alternates turns between the human player ('x') and the AI ('o').
 - **Winner Check:** After every move, the game checks for a win condition or a draw.
