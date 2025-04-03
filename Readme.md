@@ -44,7 +44,7 @@ Make sure you have Python installed on your computer. This project is compatible
 The core of this project is the **minimax algorithm**, a recursive function used to determine the optimal move by simulating all possible game outcomes. Here’s a quick breakdown:
 
 - **Game Board:** Represented as a dictionary to keep track of player moves.
-| Game Board |
+- | Game Board |
 | ---------- |
 | ![image](https://github.com/user-attachments/assets/48a3d148-af1b-4458-b449-16fb5af429dd) |
 
