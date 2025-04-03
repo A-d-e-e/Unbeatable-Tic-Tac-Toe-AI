@@ -51,6 +51,11 @@ The core of this project is the **minimax algorithm**, a recursive function used
 
 - **Turn Management:** The game alternates turns between the human player ('x') and the AI ('o').
 - **Winner Check:** After every move, the game checks for a win condition or a draw.
+  ### Keeping track:
+  | Terminal & Game Board |
+  |-----------------------|
+  | <img src=https://github.com/user-attachments/assets/2a7c4ed8-eee4-4b52-9ccd-672a2a53e428" alt="Terminal & Game board") |
+
 - **Minimax Implementation:** The algorithm explores every possible move (for both maximizing and minimizing players) and assigns scores to board states, ensuring that the AI always picks the best possible move.
 
 ## Code Structure
@@ -69,14 +74,7 @@ Contributions are welcome! If you have ideas for enhancements or spot any issues
 4. Push to the branch: `git push origin feature/YourFeature`
 5. Open a pull request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Final Thoughts
 
 Whether you’re here to challenge the AI, study a classic algorithm in action, or simply explore Python GUI programming, **Unbeatable Tic Tac Toe AI** is a fun and educational project. Enjoy the game and happy coding!
 
----
-
-Feel free to adjust the sections or add further details as your project evolves. Happy coding!
