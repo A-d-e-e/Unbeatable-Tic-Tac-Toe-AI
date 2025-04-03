@@ -60,7 +60,7 @@ The core of this project is the **minimax algorithm**, a recursive function used
   ### AI Wins:
   | Result |
   |--------|
-  | <img src="h[ttps://github.com/user-attachments/assets/48a3d148-af1b-4458-b449-16fb5af429dd" alt="Game Board](https://github.com/user-attachments/assets/c9c6bb19-d969-41f9-b9d3-6bff996d4b7b)" width="300"> |
+  | <img src="https://github.com/user-attachments/assets/c9c6bb19-d969-41f9-b9d3-6bff996d4b7b" width="300"> |
 
 
 ## Code Structure
