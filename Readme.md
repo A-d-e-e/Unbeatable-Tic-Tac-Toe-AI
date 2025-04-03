@@ -54,7 +54,7 @@ The core of this project is the **minimax algorithm**, a recursive function used
   ### Keeping track:
   | Terminal & Game Board |
   |-----------------------|
-  | <img src=https://github.com/user-attachments/assets/2a7c4ed8-eee4-4b52-9ccd-672a2a53e428" alt="Terminal & Game board") |
+  | <img src="https://github.com/user-attachments/assets/2a7c4ed8-eee4-4b52-9ccd-672a2a53e428" alt="Terminal & Game board") |
 
 - **Minimax Implementation:** The algorithm explores every possible move (for both maximizing and minimizing players) and assigns scores to board states, ensuring that the AI always picks the best possible move.
 
