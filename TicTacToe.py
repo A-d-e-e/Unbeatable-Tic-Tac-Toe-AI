@@ -165,7 +165,7 @@ def minimax(board, isMaximizing):
         for key in board.keys():
             if board[key] == " ":
                 board[key] = "o"
-                score = minimax(board, False)  # minimax
+                score = minimax(board, False) 
                 board[key] = " "
                 if score > bestScore:
                     bestScore = score
