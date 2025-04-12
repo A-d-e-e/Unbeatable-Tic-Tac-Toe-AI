@@ -4,7 +4,7 @@ Welcome to **Unbeatable Tic Tac Toe AI** – a classic game reinvented with a tw
 
 ## Overview
 
-Tic Tac Toe is more than just a simple game—it's a fun way to learn about decision-making algorithms and game theory. In this project, the AI always makes the optimal move, making it impossible for you to win (or even draw if you’re not careful!). Built with Python's Tkinter library, this project offers a sleek graphical interface, making it accessible and engaging for all skill levels.
+Tic Tac Toe is more than just a simple game, it's a fun way to learn about decision-making algorithms and game theory. In this project, the AI always makes the optimal move, making it impossible for you to win (or even draw if you’re not careful!). Built with Python's Tkinter library, this project offers a sleek graphical interface, making it accessible and engaging for all skill levels.
 
 ## Features
 
